@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="edtiText">Введите название города или его индекс</string>
+    <string name="showWeather">Показать погоду</string>
+</resources>
